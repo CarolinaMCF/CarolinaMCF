@@ -1,7 +1,8 @@
 - 👋 Olá, meu nome é **Carolina Manhães**
 - 👀 Tenho curiosidade em aprender a programar páginas na web
 - 🌱 Atualmente, estou aprendendo a proramar jogos no Scratch e em JavaScript
-
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-b
+adge&logo=Scratch&logoColor=white)
 
 
 <!---
