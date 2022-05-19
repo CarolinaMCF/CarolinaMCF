@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é **Carolina Manhães**
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 Tenho curiosidade em aprender a programar páginas na web
+- 🌱 Atualmente, estou aprendendo a proramar jogosno scratch e em JavaScript
 - 
 
 
